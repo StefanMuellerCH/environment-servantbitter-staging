@@ -10,3 +10,6 @@ dependencies:
 - name: micro-service-s1
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: micro-service-s2
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
